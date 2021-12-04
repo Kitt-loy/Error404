@@ -79,14 +79,14 @@ if web == "1":
     
    if ara == "1":
     	os.system('clear')
-    	os.system('wget https://raw.githubusercontent.com/MrAli-s/Error404/main/google_ar.py')
+ #   	os.system('wget https://raw.githubusercontent.com/MrAli-s/Error404/main/google_ar.py')
     	os.system('clear')
     	print('Google Arabic Massage')
     	os.system('python3 google_ar.py')
     	exit()
    if ara == "2":
     	os.system('clear')
-    	os.system('wget https://raw.githubusercontent.com/MrAli-s/Error404/main/google.py')
+  #  	os.system('wget https://raw.githubusercontent.com/MrAli-s/Error404/main/google.py')
     	os.system('clear')
     	print('Google English Massage')
     	os.system('python3 google.py')
@@ -100,13 +100,13 @@ if web == "2":
  
     if insta =="2":
      	os.system('clear')
-     	os.system('wget https://raw.githubusercontent.com/MrAli-s/Error404/main/insta.py')
+  #   	os.system('wget https://raw.githubusercontent.com/MrAli-s/Error404/main/insta.py')
      	os.system('clear')
      	print('Instagram English Massage')
      	os.system('python3 insta.py')
     if insta =="1":
      	os.system('clear')
-     	os.system('wget https://raw.githubusercontent.com/MrAli-s/Error404/main/insta_ar.py')
+ #    	os.system('wget https://raw.githubusercontent.com/MrAli-s/Error404/main/insta_ar.py')
      	os.system('clear')
      	print('Instagram Arabic Massage')
      	os.system('python3 insta_ar.py')
